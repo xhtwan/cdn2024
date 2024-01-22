@@ -1,0 +1,8 @@
+{
+  "error": {
+    "title": "Not Found",
+    "message": "The requested page was not found."
+  },
+  "status": 404,
+  "redirect": "/404.html"
+}

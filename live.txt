@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3 综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -15,6 +16,7 @@ CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+卫视频道,#genre#
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
@@ -50,6 +52,7 @@ CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=6673493b35914117fd4f87de0189cd17&time=65c440b5
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+地方频道,#genre#
 CHC高清电影频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CCTV央视文化精品频道,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 CCTV高尔夫网球频道,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
